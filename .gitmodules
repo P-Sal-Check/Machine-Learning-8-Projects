@@ -1,0 +1,3 @@
+[submodule "jewel"]
+	path = jewel
+	url = https://github.com/jewerlykim/Machine-JeweLeaning
